@@ -1,0 +1,11 @@
+Replace mechs and vehicles with Rigs. 
+Rigs are vehicles that can assume a bipedal form to reveal hidden tools and weapons. Rigs have unrestricted access to part of their loadout in each mode but can use exclusive weapons at a greater action point cost. For example, a Mobile Rig in jet mode can punch an enemy jet but at an action point cost of +2. 
+
+Rigs can spend more action points than they have but this causes heat generation. The hotter a Rig is the less AP it will regenerate on following turns. If a Rig maxes out it's heat it shuts down until it cools off.
+
+Rigs get a number of action points equal to their speed(?) actions include moving, attacking, interacting with objects, transforming, etc. 
+
+in mech mode the Rig moves slower but can engage in melee attacks and has access to weapons not avalible to its sleeker form. Movement systems cost much more energy to use.
+
+in vehicle mode the Rig can move faster but does not have access to mech weapons. In this form it takes significantly more energy to fire weapons that are not rated for vehicles.  
+
